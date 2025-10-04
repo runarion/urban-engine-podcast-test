@@ -16,7 +16,7 @@ If you can count to 12 and remember 3 chords, you’re already halfway to blues 
 
 ---
 
-![Blues Guitar Face](https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=400&q=80)
+![Blues Guitar Face](images/mic.jpg)
 *The "I forgot the lyrics" blues look.*
 
 ---
@@ -27,7 +27,7 @@ Because someone stole the cookies, left the fridge open, or used up all the toil
 
 ---
 
-![Blues Cat](https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg)
+![Blues Cat](images/cat.jpg)
 *This cat has heard too much jazz and now he's got the blues.*
 
 ---
@@ -54,7 +54,7 @@ Our podcast features guests who claim to have invented the kazoo, blues musician
 
 ---
 
-![Blues Harmonica](https://images.unsplash.com/photo-1454023492550-5696f8ff10e1?auto=format&fit=crop&w=400&q=80)
+![Blues Harmonica](images/tiger.jpg)
 *Blues harmonica: because sometimes you just need to whistle your problems away.*
 
 ---
