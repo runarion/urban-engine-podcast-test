@@ -1,0 +1,28 @@
+title: Funny Blues Stories -
+subtitle: Test and Experiment on Actions
+author: Runarion
+description: Conversations about Funny Blues Stories.
+image: /images/mic.jpg
+language: en-us
+category: Blues
+format: audio/mpeg
+link: https://runarion.github.io/urban-engine-podcast-test
+item:
+  - title: American Blues
+    description: This track struts in with a grin, juggling guitar licks like hotdogs on a grill. It’s the kind of blues that makes your toes tap while your burger flips itself — cheerful, twangy, and impossible not to dance to with a soda in hand.
+    published: Mon, 6 Oct 2025 00:00:00 GMT
+    file: /audio/american-blues-314911-40sec.mp3
+    duration: 00:00:40
+    length: 1,283,072
+  - title: Borderline Blues
+    description:  This tune shuffles in like a bluesman who’s had one too many espressos. The guitar noodles like it’s late for work, the groove keeps tripping over itself in a charming way, and the whole track feels like a Monday morning that accidentally turned into a dance party.
+    published: Mon, 6 Oct 2025 00:00:00 GMT
+    file: /audio/borderline-blues-410965-30sec.mp3
+    duration: 00:00:30
+    length: 962,560
+  - title: Rainy Day Blues
+    description: This blues track drips with rhythm like raindrops on a tin roof. The guitar sloshes through puddles with a grin, while the groove holds an umbrella that keeps flipping inside out. It’s the perfect soundtrack for dancing in soggy socks.
+    published: Thu, 9 Feb 2023 18:00:00 GMT
+    file: /audio/rainy-day-blues-253596-45.mp3
+    duration: 00:00:45
+    length: 1,443,840
