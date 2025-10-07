@@ -24,4 +24,4 @@ jobs:
           git config user.email "stefano@cyberservices.com" 
           git add .
           git commit -m "Modified Feed"
-          
+          git push
